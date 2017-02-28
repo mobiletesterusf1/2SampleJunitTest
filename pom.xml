@@ -4,20 +4,17 @@
   <artifactId>JunitTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  
   <dependencies>
-  	<dependency>
-  		<!-- https://mvnrepository.com/artifact/junit/junit -->
-	    <groupId>junit</groupId>
-	    <artifactId>junit</artifactId>
-	    <version>4.12</version> 		
-  	</dependency>
-  
-  
-  
-  
-  
-  
-  </dependencies>
-  
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-server</artifactId>
+    <version>3.2.0</version>
+</dependency>
+
+
+
+</dependencies>
   
 </project>
